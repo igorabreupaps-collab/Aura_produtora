@@ -1,0 +1,13 @@
+totalOperadores: 2
+---
+codigo: 1
+ativo: 1
+nome: IGOR DE ABREU FREITAS
+usuario: igor_abreu
+senha: 6789
+---
+codigo: 2
+ativo: 0
+nome: LUIZ HENRIQUE
+usuario: luiz_henrique
+senha: 6789

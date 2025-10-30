@@ -1,0 +1,9 @@
+totalFornecedores: 1
+---
+codigo: 1
+ativo: 1
+nomeFantasia: DIVINA EXPO
+razaoSocial: EXPOSICAO DE DIVINOPOLIS
+doc: 02123132032032
+tel: (37)99937-7444
+servico: BUFFET

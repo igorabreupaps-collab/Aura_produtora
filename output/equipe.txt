@@ -1,0 +1,8 @@
+totalFuncionarios: 1
+---
+codigo: 1
+ativo: 1
+nome: IGOR ABREU
+cpf: 13773036671
+funcao: TECNICO DO SOM
+valorDiariaHora: 100,000000

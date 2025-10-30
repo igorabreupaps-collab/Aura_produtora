@@ -1,0 +1,17 @@
+totalEquipamentos: 2
+---
+codigo: 1
+ativo: 1
+descricao: CAIXA DE SOM
+categoria: SONORIZAÇÃO 
+estoque: 10
+custo: 1000,000000
+locacao: 500,000000
+---
+codigo: 2
+ativo: 0
+descricao: LUIMINARIA 
+categoria: ILUMINACAO
+estoque: 100
+custo: 100,000000
+locacao: 20,000000

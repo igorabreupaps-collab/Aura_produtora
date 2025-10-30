@@ -1,0 +1,29 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "Build Produtora Eventos Project",
+            "command": "C:\\MinGW\\bin\\gcc.EXE",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "-Wall",
+                "${fileDirname}\\*.c",
+                "-o",
+                "${fileDirname}\\output\\produtora_eventos.exe"
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Compiles the entire project (all .c files)."
+        }
+    ]
+}
